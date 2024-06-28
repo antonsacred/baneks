@@ -1,4 +1,4 @@
-package gobaneks
+package baneks
 
 import (
 	"testing"

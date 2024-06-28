@@ -1,4 +1,4 @@
-module gobaneks
+module baneks
 
 go 1.20
 
