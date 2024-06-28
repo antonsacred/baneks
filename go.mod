@@ -1,4 +1,4 @@
-module baneks
+module github.com/antonsacred/baneks
 
 go 1.20
 
